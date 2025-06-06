@@ -12,8 +12,8 @@ Here are some of the projects I've been working on:
 ## Skills
 | Rank | Skills       |
 |-----:|--------------|
-|     1| Programming  |
-|     2| Web Design   |
+|     1| Research |
+|     2| BioPhysics  |
 |     3| Problem Solving |
 
 ## Contact
